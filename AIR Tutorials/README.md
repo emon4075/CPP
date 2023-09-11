@@ -6,5 +6,7 @@
     <li>Variables</li>
     <li>KeyWords</li>
     <li>Conditional Statements</li>
+    <li>Pointers</li>
+    <li>Function</li>
   </ul>
 </p>
