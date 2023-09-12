@@ -8,5 +8,8 @@
     <li>Conditional Statements</li>
     <li>Pointers</li>
     <li>Function</li>
+    <li>Recursion</li>
+    <li>String Input</li>
+    <li>Scope Resoplution</li>
   </ul>
 </p>
